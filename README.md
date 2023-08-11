@@ -1,2 +1,2 @@
 # HighPerformanceWater
-Roblox open source project. For more info go to https://devforum.roblox.com/t/high-performance-water-swimmable-part-20/2038483
+This isn't updated anymore. Please grab the code from here: https://www.roblox.com/library/11274201168/HighPerformanceWater
